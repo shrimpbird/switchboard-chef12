@@ -1,0 +1,8 @@
+[submodule "opsworks_ruby"]
+	path = opsworks_ruby
+	url = https://github.com/ajgon/opsworks_ruby.git
+	branch = master
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/chef-cookbooks/rsyslog.git
+	branch = master
